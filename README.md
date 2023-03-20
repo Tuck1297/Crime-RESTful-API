@@ -4,6 +4,8 @@
 
 This RESTful-API was created to query St. Paul Crime data that was collected and released by the St. Paul Police Department. The main focus of this part of the assignment was to use Node.js along with SQL to retrieve the desired data being requested by the client. 
 
+See it in action online by clicking [here](https://tuck1297.github.io/Vue-Single-Page-St.-Paul-Crime/)!!!
+
 There are three paths that the RESTful-API can be queried by: 
 
 - Codes: 
@@ -76,4 +78,4 @@ There is also the following online tool for querying: [Webtools](https://www.web
 
 ## VueJS User Interface
 
-You can see the VueJS User Interface that was created alongside this RESTful-API server in this Repo: [Github Repository](link add later).
+You can see the VueJS User Interface that was created alongside this RESTful-API server in this Repo: [Github Repository](https://github.com/tuck1297/crime-vuejs-ui/).
